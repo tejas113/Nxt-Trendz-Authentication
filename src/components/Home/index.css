@@ -1,0 +1,42 @@
+.downCont {
+  display: flex;
+  align-items: center;
+  padding: 100px;
+  justify-content: space-around;
+}
+
+.contentCont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  width: 35%;
+}
+
+.headEdit {
+  color: black;
+  font-weight: bold;
+  font-size: 30px;
+  font-family: 'Roboto';
+}
+
+.paraEdit {
+  color: black;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+
+.btnEdit {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-width: 0px;
+  background-color: aquamarine;
+  height: 40px;
+  width: 90px;
+  border-radius: 6px;
+}
+
+.clothesImgEdit {
+  height: 500px;
+}

@@ -1,0 +1,28 @@
+.navBarEdit {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-left: 50px;
+  padding-right: 50px;
+  justify-content: space-between;
+}
+
+.logoEdit {
+  height: 80px;
+  width: 300px;
+}
+
+.navMenuEdit {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  list-style-type: none;
+}
+
+.listEdit {
+  color: black;
+  font-family: 'Roboto';
+  font-size: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
